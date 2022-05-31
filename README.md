@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lottie1108
+- 👋 Hi, I’m Ellie
 - 👀 I’m interested in programming and Japanese culture
 - 🌱 I’m currently learning web dev
 - 📫 How to reach me - email- lottie1108@icloud.com
